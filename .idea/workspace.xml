@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="renamed and moved to other files">
-      <change beforePath="$PROJECT_DIR$/src/features/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/styled.js" beforeDir="false" />
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Basic styled for ThemeSwitch in common">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="public/index" />
+        <entry key="$PROJECT_DIR$" value="core/theme" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,8 +56,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.loader.js.executor": "Debug",
+    "Node.js.themeSlice.jsx.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "common-ThemeSwitch-styled",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,6 +67,7 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
     "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
@@ -72,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\personal-homepage\src\common\ThemeSwich" />
       <recent name="C:\dev\personal-homepage\src\core" />
     </key>
   </component>
@@ -95,7 +99,10 @@
       <workItem from="1727302575824" duration="36000" />
       <workItem from="1727445229019" duration="1539000" />
       <workItem from="1727446894894" duration="1359000" />
-      <workItem from="1727448274455" duration="6693000" />
+      <workItem from="1727448274455" duration="7644000" />
+      <workItem from="1727539980068" duration="2757000" />
+      <workItem from="1727711494813" duration="1950000" />
+      <workItem from="1727807486946" duration="2475000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -145,7 +152,103 @@
       <option name="project" value="LOCAL" />
       <updated>1727459647421</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="WebStorm initial commit">
+      <option name="closed" value="true" />
+      <created>1727459730945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727459730945</updated>
+    </task>
+    <task id="LOCAL-00008" summary="reduxjs/toolkit, themeSlice added in ThemeSwitch">
+      <option name="closed" value="true" />
+      <created>1727459817625</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727459817625</updated>
+    </task>
+    <task id="LOCAL-00009" summary="App component refactor adding ThemeProvider, GlobalStyle, and ThemeSwitch for styling">
+      <option name="closed" value="true" />
+      <created>1727542261003</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542261003</updated>
+    </task>
+    <task id="LOCAL-00010" summary="React DOM root in index.js improved on store Provider">
+      <option name="closed" value="true" />
+      <created>1727542370646</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542370646</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ThemeSwitch index created">
+      <option name="closed" value="true" />
+      <created>1727542460759</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542460759</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Styled for ThemeSwitch added in styled.js">
+      <option name="closed" value="true" />
+      <created>1727542499660</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542499660</updated>
+    </task>
+    <task id="LOCAL-00013" summary="sun.svg icon added in ThemeSwitch file">
+      <option name="closed" value="true" />
+      <created>1727542517470</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542517470</updated>
+    </task>
+    <task id="LOCAL-00014" summary="theme file added in core">
+      <option name="closed" value="true" />
+      <created>1727542535378</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542535378</updated>
+    </task>
+    <task id="LOCAL-00015" summary="created file in features src">
+      <option name="closed" value="true" />
+      <created>1727711588950</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727711588951</updated>
+    </task>
+    <task id="LOCAL-00016" summary="package loc json files">
+      <option name="closed" value="true" />
+      <created>1727711648874</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727711648874</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added theme colors names in core">
+      <option name="closed" value="true" />
+      <created>1727808783196</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727808783196</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Basic styled for ThemeSwitch in common">
+      <option name="closed" value="true" />
+      <created>1727809894075</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727809894075</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +260,18 @@
     <MESSAGE value="meta content in public index changed" />
     <MESSAGE value="9 files move to features" />
     <MESSAGE value="renamed and moved to other files" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed and moved to other files" />
+    <MESSAGE value="WebStorm initial commit" />
+    <MESSAGE value="reduxjs/toolkit, themeSlice added in ThemeSwitch" />
+    <MESSAGE value="App component refactor adding ThemeProvider, GlobalStyle, and ThemeSwitch for styling" />
+    <MESSAGE value="React DOM root in index.js improved on store Provider" />
+    <MESSAGE value="ThemeSwitch index created" />
+    <MESSAGE value="Styled for ThemeSwitch added in styled.js" />
+    <MESSAGE value="sun.svg icon added in ThemeSwitch file" />
+    <MESSAGE value="theme file added in core" />
+    <MESSAGE value="created file in features src" />
+    <MESSAGE value="package loc json files" />
+    <MESSAGE value="added theme colors names in core" />
+    <MESSAGE value="Basic styled for ThemeSwitch in common" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic styled for ThemeSwitch in common" />
   </component>
 </project>
