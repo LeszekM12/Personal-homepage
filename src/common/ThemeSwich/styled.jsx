@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { ReactComponent as SunIcon} from "./sun.svg";
+
 export const Wrapper = styled.div`
     display: flex;
     justify-content: flex-end;
@@ -9,7 +10,6 @@ export const Box = styled.div`
     align-items: center;
     background: none;
     border: none;
-    background: ${({ theme }) => theme.colors.white};
 `;
 export const Button = styled.button`
     display: flex;
@@ -22,7 +22,6 @@ export const Text = styled.span`
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
-    color: ${props => props.theme.color};
 `;
 export const IconBox = styled.div`
     display: flex;

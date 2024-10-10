@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Basic styled for ThemeSwitch in common">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="workspace.xml WebStorm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ThemeSwich/styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ThemeSwich/styled.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/store.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/store.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,25 +55,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.loader.js.executor": "Debug",
-    "Node.js.themeSlice.jsx.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "common-ThemeSwitch-styled",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
-    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.loader.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;common-ThemeSwitch-styled&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\personal-homepage\src\common\ThemeSwich" />
@@ -103,6 +104,13 @@
       <workItem from="1727539980068" duration="2757000" />
       <workItem from="1727711494813" duration="1950000" />
       <workItem from="1727807486946" duration="2475000" />
+      <workItem from="1727905934197" duration="699000" />
+      <workItem from="1728030000636" duration="63000" />
+      <workItem from="1728408276032" duration="5000" />
+      <workItem from="1728422687677" duration="7000" />
+      <workItem from="1728470211780" duration="2058000" />
+      <workItem from="1728499616427" duration="26000" />
+      <workItem from="1728559321652" duration="1311000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -248,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727809894075</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="workspace.xml WebStorm">
+      <option name="closed" value="true" />
+      <created>1727905988765</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727905988765</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +288,7 @@
     <MESSAGE value="package loc json files" />
     <MESSAGE value="added theme colors names in core" />
     <MESSAGE value="Basic styled for ThemeSwitch in common" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic styled for ThemeSwitch in common" />
+    <MESSAGE value="workspace.xml WebStorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml WebStorm" />
   </component>
 </project>
