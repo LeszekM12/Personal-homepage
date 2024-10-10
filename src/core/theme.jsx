@@ -18,10 +18,43 @@ const colorNames = {
     white: "#FFFFFF",
 };
 
-export const themeDark = {
-
+const device = {
+    breakpoints: {
+        phone: "767px",
+        tablet: "991px",
+        laptop: "1200px",
+    },
 };
 
 export const themeLight = {
+    ...device,
+    colors: {
+        site: {
+            background: colorNames.whiteLilac,
+            text: colorNames.slateGray,
+        },
+        themeSwitch: {
+            background: colorNames.white,
+            icon: colorNames.white,
+            iconBox: colorNames.slateGray,
+            border: colorNames.slateGray,
+        },
+    },
 
+};
+
+export const themeDark = {
+    ...device,
+    colors: {
+        site: {
+            background: colorNames.black,
+            text: colorNames.white,
+        },
+        themeSwitch: {
+            background: colorNames.black,
+            icon: colorNames.black,
+            iconBox: colorNames.white,
+            border: colorNames.white,
+        },
+    },
 };
