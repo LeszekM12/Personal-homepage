@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="workspace.xml WebStorm">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ThemeSwich/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ThemeSwich/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ThemeSwich/styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ThemeSwich/styled.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/GlobalStyle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/GlobalStyle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/theme.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/theme.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="core-theme" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +43,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -59,9 +59,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Node.js.loader.js.executor": "Debug",
+    "Node.js.styled.jsx.executor": "Debug",
     "Node.js.themeSlice.jsx.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "core-GlobalStyle",
+    "git-widget-placeholder": "core-theme",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -265,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727905988765</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="installed normalize form styled normalize and added in App core">
+      <option name="closed" value="true" />
+      <created>1728562168167</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728562168167</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +299,7 @@
     <MESSAGE value="added theme colors names in core" />
     <MESSAGE value="Basic styled for ThemeSwitch in common" />
     <MESSAGE value="workspace.xml WebStorm" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml WebStorm" />
+    <MESSAGE value="installed normalize form styled normalize and added in App core" />
+    <option name="LAST_COMMIT_MESSAGE" value="installed normalize form styled normalize and added in App core" />
   </component>
 </project>
