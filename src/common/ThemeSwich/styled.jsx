@@ -22,7 +22,8 @@ export const Button = styled.button`
     border: 1px solid ${({theme}) => theme.colors.themeSwitch.border};
 `;
 export const Text = styled.span`
-    margin-left: 10px;
+    margin-left: 20px;
+    padding: 10px;
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
