@@ -5,6 +5,7 @@ import {ThemeProvider} from "styled-components";
 import {themeLight, themeDark} from "./theme";
 import {GlobalStyle} from "./GlobalStyle";
 import {Normalize} from "styled-normalize";
+import {MainBio} from "../features/PersonalHomepage/MainBio";
 
 function App() {
     const isDarkTheme = useSelector(selectIsDarkTheme);
@@ -13,6 +14,7 @@ function App() {
         <ThemeProvider theme={isDarkTheme ? themeDark : themeLight}>
             <Normalize/>
             <ThemeSwitch/>
+            <MainBio/>
             <GlobalStyle/>
         </ThemeProvider>
     );
