@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="filled themeLight and Dark with colors, site and themeSwitch and insert breakpoints">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Main Bio created in Personal Homepage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Skills/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Skills/styled.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/styled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/styled.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/styled.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,26 +54,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.loader.js.executor": "Debug",
-    "Node.js.styled.jsx.executor": "Debug",
-    "Node.js.themeSlice.jsx.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features-PersonalHomegape",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
-    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.loader.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;features-PersonalHomegape&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\MainBio" />
@@ -119,6 +113,9 @@
       <workItem from="1728499616427" duration="26000" />
       <workItem from="1728559321652" duration="1311000" />
       <workItem from="1728650351791" duration="1796000" />
+      <workItem from="1728675580332" duration="692000" />
+      <workItem from="1729075836364" duration="658000" />
+      <workItem from="1729107477594" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -296,7 +293,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728569139681</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="removed empty files">
+      <option name="closed" value="true" />
+      <created>1728669793924</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1728669793924</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Main Bio created in Personal Homepage">
+      <option name="closed" value="true" />
+      <created>1728669903503</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1728669903503</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +337,8 @@
     <MESSAGE value="installed normalize form styled normalize and added in App core" />
     <MESSAGE value="filled themeLight and Dark with colors, site and themeSwitch and insert breakpoints" />
     <MESSAGE value="Insert theme and breakpoints in styled themeSwitch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Insert theme and breakpoints in styled themeSwitch" />
+    <MESSAGE value="removed empty files" />
+    <MESSAGE value="Main Bio created in Personal Homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Bio created in Personal Homepage" />
   </component>
 </project>
