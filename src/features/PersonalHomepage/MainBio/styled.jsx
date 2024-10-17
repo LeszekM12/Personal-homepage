@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { ReactComponent as EnvelopeIcon} from "./envelope.svg"
 
 export const Wrapper = styled.header`
     max-width: 1120px;
@@ -8,7 +9,7 @@ export const Wrapper = styled.header`
     align-items: center;
 
     @media (max-width: ${({theme}) => theme.breakpoints.phone}) {
-        grid-gap: 16px;
+        grid-gap: 12px;
         grid-template-columns: 1fr;
     }
 
@@ -57,3 +58,12 @@ export const Summary = styled.p`
         font-size: 18px;
     }
 `;
+
+export const Envelop = styled(EnvelopeIcon)`
+    margin-right: 12px;
+
+    @media (max-width: ${({theme}) => theme.breakpoints.phone}) {
+        margin-right: 10px;
+    }
+`;
+
