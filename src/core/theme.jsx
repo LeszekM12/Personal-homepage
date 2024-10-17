@@ -29,6 +29,8 @@ const device = {
 export const themeLight = {
     ...device,
     colors: {
+        primary: colorNames.scienceBlue,
+        textPrimary: colorNames.black,
         site: {
             background: colorNames.whiteLilac,
             text: colorNames.slateGray,
@@ -39,6 +41,10 @@ export const themeLight = {
             iconBox: colorNames.slateGray,
             border: colorNames.slateGray,
         },
+        buttonLink: {
+            text: colorNames.white,
+            shadow: colorNames.anakiwa,
+        },
     },
 
 };
@@ -46,6 +52,8 @@ export const themeLight = {
 export const themeDark = {
     ...device,
     colors: {
+        primary: colorNames.dodgerBlue,
+        textPrimary: colorNames.white,
         site: {
             background: colorNames.black,
             text: colorNames.white,
@@ -55,6 +63,10 @@ export const themeDark = {
             icon: colorNames.black,
             iconBox: colorNames.white,
             border: colorNames.white,
+        },
+        buttonLink: {
+            text: colorNames.white,
+            shadow: colorNames.shipCove,
         },
     },
 };

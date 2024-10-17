@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Main Bio created in Personal Homepage">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Improved styled MainBio on Summary, Name and media breakpoints">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/theme.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/theme.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/styled.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +62,7 @@
     &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;features-PersonalHomegape&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;features-MainBio-Button&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -116,6 +118,8 @@
       <workItem from="1728675580332" duration="692000" />
       <workItem from="1729075836364" duration="658000" />
       <workItem from="1729107477594" duration="1208000" />
+      <workItem from="1729154736941" duration="5702000" />
+      <workItem from="1729161323510" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
