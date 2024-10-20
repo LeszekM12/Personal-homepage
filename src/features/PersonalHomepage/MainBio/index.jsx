@@ -17,7 +17,6 @@ export const MainBio = () => (
                 <Envelop/>
                 Hire me
             </Button>
-
         </div>
     </Wrapper>
 );
