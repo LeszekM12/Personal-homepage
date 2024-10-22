@@ -45,6 +45,9 @@ export const themeLight = {
             text: colorNames.white,
             shadow: colorNames.anakiwa,
         },
+        headerLine: colorNames.mercury,
+        boxBackground: colorNames.white,
+        boxShadow: colorNames.lightGray,
     },
 
 };
@@ -68,5 +71,8 @@ export const themeDark = {
             text: colorNames.white,
             shadow: colorNames.shipCove,
         },
+        headerLine: colorNames.tundora,
+        boxBackground: colorNames.mineshaftLighter,
+        boxShadow: "none",
     },
 };
