@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Importing PersonalHomepage in core App function">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Mapping our skills items in Skills index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.loader.js.executor": "Debug",
-    "Node.js.styled.jsx.executor": "Debug",
-    "Node.js.themeSlice.jsx.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features/PersonalHomepage/index",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
-    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.loader.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;features/Skills&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Skills" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\MainBio" />
       <recent name="C:\dev\personal-homepage\src\common\ThemeSwich" />
       <recent name="C:\dev\personal-homepage\src\core" />
@@ -122,6 +123,10 @@
       <workItem from="1729448254871" duration="126000" />
       <workItem from="1729448462985" duration="190000" />
       <workItem from="1729448666991" duration="2087000" />
+      <workItem from="1729512523541" duration="2365000" />
+      <workItem from="1729546097592" duration="107000" />
+      <workItem from="1729596247887" duration="7248000" />
+      <workItem from="1729603642609" duration="5088000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -339,16 +344,37 @@
       <option name="project" value="LOCAL" />
       <updated>1729450761259</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added new box colors to theme core">
+      <option name="closed" value="true" />
+      <created>1729611310035</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729611310035</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Collected skills and next Skills in Skills Data file">
+      <option name="closed" value="true" />
+      <created>1729613601913</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729613601913</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Mapping our skills items in Skills index">
+      <option name="closed" value="true" />
+      <created>1729613999101</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729613999101</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
-    <MESSAGE value="meta content in public index changed" />
-    <MESSAGE value="9 files move to features" />
     <MESSAGE value="renamed and moved to other files" />
     <MESSAGE value="WebStorm initial commit" />
     <MESSAGE value="reduxjs/toolkit, themeSlice added in ThemeSwitch" />
@@ -371,6 +397,9 @@
     <MESSAGE value="PersonalHomepage function collects files from the features directory in one place making order in App" />
     <MESSAGE value="Styled new Container in PersonalHomepage Index making site tight and smooth in view" />
     <MESSAGE value="Importing PersonalHomepage in core App function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Importing PersonalHomepage in core App function" />
+    <MESSAGE value="Added new box colors to theme core" />
+    <MESSAGE value="Collected skills and next Skills in Skills Data file" />
+    <MESSAGE value="Mapping our skills items in Skills index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mapping our skills items in Skills index" />
   </component>
 </project>
