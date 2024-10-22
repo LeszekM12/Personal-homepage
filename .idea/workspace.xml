@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Mapping our skills items in Skills index">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Implementing Skills in features  PersonalHomepage index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,7 @@
       <workItem from="1729512523541" duration="2365000" />
       <workItem from="1729546097592" duration="107000" />
       <workItem from="1729596247887" duration="7248000" />
-      <workItem from="1729603642609" duration="5088000" />
+      <workItem from="1729603642609" duration="5393000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -368,16 +365,37 @@
       <option name="project" value="LOCAL" />
       <updated>1729613999101</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Styled components for Skills function in Skills styled">
+      <option name="closed" value="true" />
+      <created>1729614107458</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729614107458</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added Point icon svg for skill list">
+      <option name="closed" value="true" />
+      <created>1729614181454</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1729614181454</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Implementing Skills in features  PersonalHomepage index">
+      <option name="closed" value="true" />
+      <created>1729614328892</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1729614328892</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="renamed and moved to other files" />
-    <MESSAGE value="WebStorm initial commit" />
-    <MESSAGE value="reduxjs/toolkit, themeSlice added in ThemeSwitch" />
     <MESSAGE value="App component refactor adding ThemeProvider, GlobalStyle, and ThemeSwitch for styling" />
     <MESSAGE value="React DOM root in index.js improved on store Provider" />
     <MESSAGE value="ThemeSwitch index created" />
@@ -400,6 +418,9 @@
     <MESSAGE value="Added new box colors to theme core" />
     <MESSAGE value="Collected skills and next Skills in Skills Data file" />
     <MESSAGE value="Mapping our skills items in Skills index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mapping our skills items in Skills index" />
+    <MESSAGE value="Styled components for Skills function in Skills styled" />
+    <MESSAGE value="Added Point icon svg for skill list" />
+    <MESSAGE value="Implementing Skills in features  PersonalHomepage index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing Skills in features  PersonalHomepage index" />
   </component>
 </project>
