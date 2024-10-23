@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Business Card - Leszek Mikrut 
+
+Hello! This is the Business Card of my portfolio and acquired experience in Frontend Developing. Take a look and check my personal website!
+
+![image](https://github.com/user-attachments/assets/f62c2b1b-ef8e-406f-8e65-0ea128bbd16e)
+[Business Card](https://leszekm12.github.io/Personal-homepage/)
+
+## Technologies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
