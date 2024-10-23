@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Styled components from Footer index.jsx">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="features/Footer" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +59,7 @@
     &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;features/Footer&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
@@ -134,6 +133,8 @@
       <workItem from="1729603642609" duration="5393000" />
       <workItem from="1729684186129" duration="3029000" />
       <workItem from="1729687910379" duration="11089000" />
+      <workItem from="1729703638259" duration="49000" />
+      <workItem from="1729703784676" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
