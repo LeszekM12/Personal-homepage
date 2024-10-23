@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.js": "/Personal-homegape/static/js/main.bd461f7a.js",
+    "main.js": "/Personal-homegape/static/js/main.a6b5136e.js",
     "static/js/453.61d4ab14.chunk.js": "/Personal-homegape/static/js/453.61d4ab14.chunk.js",
+    "static/media/Profile5.jpg": "/Personal-homegape/static/media/Profile5.50c02aecd618d59dd636.jpg",
+    "static/media/sun.svg": "/Personal-homegape/static/media/sun.7e40ee37238dee62a816886722d5b99d.svg",
+    "static/media/github.svg": "/Personal-homegape/static/media/github.cc1df8293a2b93d87320cc477a9e1609.svg",
     "index.html": "/Personal-homegape/index.html",
-    "main.bd461f7a.js.map": "/Personal-homegape/static/js/main.bd461f7a.js.map",
+    "static/media/linkedin.svg": "/Personal-homegape/static/media/linkedin.5fac59fc662b2a089327e72909eb3444.svg",
+    "static/media/envelope.svg": "/Personal-homegape/static/media/envelope.0fc5b2e577ad18e10a1410496a993ed5.svg",
+    "static/media/Point.svg": "/Personal-homegape/static/media/Point.907de20c06c772cca133e3db0dad6955.svg",
+    "main.a6b5136e.js.map": "/Personal-homegape/static/js/main.a6b5136e.js.map",
     "453.61d4ab14.chunk.js.map": "/Personal-homegape/static/js/453.61d4ab14.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bd461f7a.js"
+    "static/js/main.a6b5136e.js"
   ]
 }
