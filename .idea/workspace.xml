@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Implementing Skills in features  PersonalHomepage index" />
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Styled components from Footer index.jsx">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +60,8 @@
     &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;features/Skills&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;features/Footer&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -72,7 +76,11 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia\Icons" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Skills" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\MainBio" />
       <recent name="C:\dev\personal-homepage\src\common\ThemeSwich" />
@@ -124,6 +132,8 @@
       <workItem from="1729546097592" duration="107000" />
       <workItem from="1729596247887" duration="7248000" />
       <workItem from="1729603642609" duration="5393000" />
+      <workItem from="1729684186129" duration="3029000" />
+      <workItem from="1729687910379" duration="11089000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -389,16 +399,37 @@
       <option name="project" value="LOCAL" />
       <updated>1729614328892</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Created Footer index file with Info paragraph email address and SocialMedia icons">
+      <option name="closed" value="true" />
+      <created>1729702641395</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1729702641395</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Imported SocialMedia Icons in socials object board with links and names">
+      <option name="closed" value="true" />
+      <created>1729702758891</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1729702758891</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Styled components from Footer index.jsx">
+      <option name="closed" value="true" />
+      <created>1729702845902</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1729702845902</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="App component refactor adding ThemeProvider, GlobalStyle, and ThemeSwitch for styling" />
-    <MESSAGE value="React DOM root in index.js improved on store Provider" />
-    <MESSAGE value="ThemeSwitch index created" />
     <MESSAGE value="Styled for ThemeSwitch added in styled.js" />
     <MESSAGE value="sun.svg icon added in ThemeSwitch file" />
     <MESSAGE value="theme file added in core" />
@@ -421,6 +452,9 @@
     <MESSAGE value="Styled components for Skills function in Skills styled" />
     <MESSAGE value="Added Point icon svg for skill list" />
     <MESSAGE value="Implementing Skills in features  PersonalHomepage index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing Skills in features  PersonalHomepage index" />
+    <MESSAGE value="Created Footer index file with Info paragraph email address and SocialMedia icons" />
+    <MESSAGE value="Imported SocialMedia Icons in socials object board with links and names" />
+    <MESSAGE value="Styled components from Footer index.jsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Styled components from Footer index.jsx" />
   </component>
 </project>
