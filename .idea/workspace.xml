@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="gh-pages homepage link fixed to correct address name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="features/Footer" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,37 +55,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.loader.js.executor&quot;: &quot;Debug&quot;,
-    &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
-    &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.loader.js.executor": "Debug",
+    "Node.js.styled.jsx.executor": "Debug",
+    "Node.js.themeSlice.jsx.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "features/Portfolio",
+    "last_opened_file_path": "C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Portfolio" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia\Icons" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Skills" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\MainBio" />
       <recent name="C:\dev\personal-homepage\src\common\ThemeSwich" />
-      <recent name="C:\dev\personal-homepage\src\core" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -135,6 +137,8 @@
       <workItem from="1729687910379" duration="11089000" />
       <workItem from="1729703638259" duration="49000" />
       <workItem from="1729703784676" duration="36000" />
+      <workItem from="1729715083913" duration="1007000" />
+      <workItem from="1729761774460" duration="2483000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -424,14 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729702845902</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="gh-pages homepage link fixed to correct address name">
+      <option name="closed" value="true" />
+      <created>1729715421177</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1729715421177</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Styled for ThemeSwitch added in styled.js" />
     <MESSAGE value="sun.svg icon added in ThemeSwitch file" />
     <MESSAGE value="theme file added in core" />
     <MESSAGE value="created file in features src" />
@@ -456,6 +467,7 @@
     <MESSAGE value="Created Footer index file with Info paragraph email address and SocialMedia icons" />
     <MESSAGE value="Imported SocialMedia Icons in socials object board with links and names" />
     <MESSAGE value="Styled components from Footer index.jsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Styled components from Footer index.jsx" />
+    <MESSAGE value="gh-pages homepage link fixed to correct address name" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh-pages homepage link fixed to correct address name" />
   </component>
 </project>
