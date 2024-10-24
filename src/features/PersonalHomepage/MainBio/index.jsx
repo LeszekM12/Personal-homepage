@@ -10,7 +10,7 @@ export const MainBio = () => (
             <ThisIs>This is</ThisIs>
             <Name>Leszek Mikrut</Name>
             <Summary>
-                🧑🏻‍💻I'm a dedicated Frontend Developer with a strong interest in
+                🧑🏻‍💻I'm a dedicated Front-end Developer with a strong interest in
                 React, actively looking new job opportunities.
             </Summary>
             <Button href={`mailto:${email}`} title={email}>
