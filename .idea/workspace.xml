@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="gh-pages homepage link fixed to correct address name">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/MainBio/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/theme.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/theme.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
     "Node.js.styled.jsx.executor": "Debug",
     "Node.js.themeSlice.jsx.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features/Portfolio",
+    "git-widget-placeholder": "features/Portfolio/Content",
     "last_opened_file_path": "C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",

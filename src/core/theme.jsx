@@ -49,7 +49,12 @@ export const themeLight = {
         boxBackground: colorNames.white,
         boxShadow: colorNames.lightGray,
     },
-
+    tile: {
+        border: colorNames.porcelain,
+        borderHover: colorNames.tropicalBlue,
+        linkBorderBottom: colorNames.primaryAlpha,
+        header: colorNames.scienceBlue,
+    },
 };
 
 export const themeDark = {
@@ -74,5 +79,11 @@ export const themeDark = {
         headerLine: colorNames.tundora,
         boxBackground: colorNames.mineshaftLighter,
         boxShadow: "none",
+    },
+    tile: {
+        border: colorNames.tundora,
+        borderHover: colorNames.blumine,
+        linkBorderBottom: colorNames.dodgerBlueAlpha,
+        header: colorNames.white,
     },
 };
