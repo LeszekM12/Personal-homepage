@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Added theme tile colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/theme.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/theme.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,27 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.loader.js.executor": "Debug",
-    "Node.js.styled.jsx.executor": "Debug",
-    "Node.js.themeSlice.jsx.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features/Portfolio/Content",
-    "last_opened_file_path": "C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
-    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.loader.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;features/Portfolio/Content&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia" />
@@ -139,6 +139,8 @@
       <workItem from="1729703784676" duration="36000" />
       <workItem from="1729715083913" duration="1007000" />
       <workItem from="1729761774460" duration="2483000" />
+      <workItem from="1729886573337" duration="232000" />
+      <workItem from="1729970066231" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -436,15 +438,29 @@
       <option name="project" value="LOCAL" />
       <updated>1729715421177</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Imported repositories to Portfolio index">
+      <option name="closed" value="true" />
+      <created>1729886723901</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1729886723901</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added theme tile colors">
+      <option name="closed" value="true" />
+      <created>1729886738494</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1729886738494</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sun.svg icon added in ThemeSwitch file" />
-    <MESSAGE value="theme file added in core" />
     <MESSAGE value="created file in features src" />
     <MESSAGE value="package loc json files" />
     <MESSAGE value="added theme colors names in core" />
@@ -468,6 +484,8 @@
     <MESSAGE value="Imported SocialMedia Icons in socials object board with links and names" />
     <MESSAGE value="Styled components from Footer index.jsx" />
     <MESSAGE value="gh-pages homepage link fixed to correct address name" />
-    <option name="LAST_COMMIT_MESSAGE" value="gh-pages homepage link fixed to correct address name" />
+    <MESSAGE value="Imported repositories to Portfolio index" />
+    <MESSAGE value="Added theme tile colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added theme tile colors" />
   </component>
 </project>
