@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Styling components for Repositories list in styled">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Temporary tests loading and error files for content road">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/Content/Repositories/styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/Content/Repositories/styled.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,27 +55,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.loader.js.executor&quot;: &quot;Debug&quot;,
-    &quot;Node.js.styled.jsx.executor&quot;: &quot;Debug&quot;,
-    &quot;Node.js.themeSlice.jsx.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;features/Portfolio/Content&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.loader.js.executor": "Debug",
+    "Node.js.personalHomepageSlice.jsx.executor": "Debug",
+    "Node.js.store.jsx.executor": "Debug",
+    "Node.js.styled.jsx.executor": "Debug",
+    "Node.js.themeSlice.jsx.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "features/Portfolio/Content",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia" />
@@ -139,47 +144,8 @@
       <workItem from="1729761774460" duration="2483000" />
       <workItem from="1729886573337" duration="232000" />
       <workItem from="1729970066231" duration="3712000" />
-      <workItem from="1730111364737" duration="2465000" />
-    </task>
-    <task id="LOCAL-00001" summary="commit">
-      <option name="closed" value="true" />
-      <created>1727300814024</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1727300814024</updated>
-    </task>
-    <task id="LOCAL-00002" summary="commit">
-      <option name="closed" value="true" />
-      <created>1727301042219</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1727301042219</updated>
-    </task>
-    <task id="LOCAL-00003" summary="meta content in public index changed">
-      <option name="closed" value="true" />
-      <created>1727448458460</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1727448458460</updated>
-    </task>
-    <task id="LOCAL-00004" summary="9 files move to features">
-      <option name="closed" value="true" />
-      <created>1727449688090</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1727449688090</updated>
-    </task>
-    <task id="LOCAL-00005" summary="renamed and moved to other files">
-      <option name="closed" value="true" />
-      <created>1727459617437</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1727459617437</updated>
+      <workItem from="1730111364737" duration="7656000" />
+      <workItem from="1730127923860" duration="7125000" />
     </task>
     <task id="LOCAL-00006" summary="renamed and moved to other files">
       <option name="closed" value="true" />
@@ -477,25 +443,109 @@
       <option name="project" value="LOCAL" />
       <updated>1729972814756</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Installed axios package">
+      <option name="closed" value="true" />
+      <created>1730114611297</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1730114611297</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Created GitHub API url username axios function in features personalHomepageAPI">
+      <option name="closed" value="true" />
+      <created>1730114712048</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1730114712048</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Imported saga middleware to the store in main core and added personalHomepage reducer">
+      <option name="closed" value="true" />
+      <created>1730138809619</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1730138809619</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Installed redux-saga">
+      <option name="closed" value="true" />
+      <created>1730138862447</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1730138862447</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Getting GitHub API user repositories using axios library">
+      <option name="closed" value="true" />
+      <created>1730138979254</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1730138979254</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Created personal Homepage Saga function fetch repositories">
+      <option name="closed" value="true" />
+      <created>1730139067656</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1730139067656</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Creating Personal Homepage Slice in features">
+      <option name="closed" value="true" />
+      <created>1730139135642</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1730139135642</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Collecting all list of saga in one function exporting to the store in core">
+      <option name="closed" value="true" />
+      <created>1730139422491</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1730139422492</updated>
+    </task>
+    <task id="LOCAL-00051" summary="GitHub username constant">
+      <option name="closed" value="true" />
+      <created>1730139501987</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1730139501987</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Implementing parameters to display repositories and filtering it by included description in portfolio/repositories index.jsx">
+      <option name="closed" value="true" />
+      <created>1730139885651</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1730139885651</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Created content status path of the repositories road in Portfolio/Content index to check local status and throw needed error">
+      <option name="closed" value="true" />
+      <created>1730140279552</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1730140279552</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Temporary tests loading and error files for content road">
+      <option name="closed" value="true" />
+      <created>1730140342307</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1730140342307</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Basic styled for ThemeSwitch in common" />
-    <MESSAGE value="workspace.xml WebStorm" />
-    <MESSAGE value="installed normalize form styled normalize and added in App core" />
-    <MESSAGE value="filled themeLight and Dark with colors, site and themeSwitch and insert breakpoints" />
-    <MESSAGE value="Insert theme and breakpoints in styled themeSwitch" />
-    <MESSAGE value="removed empty files" />
-    <MESSAGE value="Main Bio created in Personal Homepage" />
-    <MESSAGE value="PersonalHomepage function collects files from the features directory in one place making order in App" />
-    <MESSAGE value="Styled new Container in PersonalHomepage Index making site tight and smooth in view" />
-    <MESSAGE value="Importing PersonalHomepage in core App function" />
-    <MESSAGE value="Added new box colors to theme core" />
-    <MESSAGE value="Collected skills and next Skills in Skills Data file" />
     <MESSAGE value="Mapping our skills items in Skills index" />
     <MESSAGE value="Styled components for Skills function in Skills styled" />
     <MESSAGE value="Added Point icon svg for skill list" />
@@ -509,6 +559,18 @@
     <MESSAGE value="Added color alpha library package to use it in border bottom theme link" />
     <MESSAGE value="Created Repositories fake segment to prepare it for implement GitHub API repositories" />
     <MESSAGE value="Styling components for Repositories list in styled" />
-    <option name="LAST_COMMIT_MESSAGE" value="Styling components for Repositories list in styled" />
+    <MESSAGE value="Installed axios package" />
+    <MESSAGE value="Created GitHub API url username axios function in features personalHomepageAPI" />
+    <MESSAGE value="Imported saga middleware to the store in main core and added personalHomepage reducer" />
+    <MESSAGE value="Installed redux-saga" />
+    <MESSAGE value="Getting GitHub API user repositories using axios library" />
+    <MESSAGE value="Created personal Homepage Saga function fetch repositories" />
+    <MESSAGE value="Creating Personal Homepage Slice in features" />
+    <MESSAGE value="Collecting all list of saga in one function exporting to the store in core" />
+    <MESSAGE value="GitHub username constant" />
+    <MESSAGE value="Implementing parameters to display repositories and filtering it by included description in portfolio/repositories index.jsx" />
+    <MESSAGE value="Created content status path of the repositories road in Portfolio/Content index to check local status and throw needed error" />
+    <MESSAGE value="Temporary tests loading and error files for content road" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temporary tests loading and error files for content road" />
   </component>
 </project>
