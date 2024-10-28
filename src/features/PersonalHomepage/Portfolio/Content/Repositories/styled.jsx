@@ -19,7 +19,7 @@ export const Title = styled.li`
     background: ${({ theme }) => theme.colors.boxBackground};
     padding: 56px;
     margin: 0;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: ${({ theme }) => theme.boxShadow};
     transition: border-color 0.3s;
     
