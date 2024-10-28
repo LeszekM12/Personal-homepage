@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Added theme tile colors">
+    <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Styling components for Repositories list in styled">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +138,8 @@
       <workItem from="1729715083913" duration="1007000" />
       <workItem from="1729761774460" duration="2483000" />
       <workItem from="1729886573337" duration="232000" />
-      <workItem from="1729970066231" duration="2259000" />
+      <workItem from="1729970066231" duration="3712000" />
+      <workItem from="1730111364737" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -454,16 +453,37 @@
       <option name="project" value="LOCAL" />
       <updated>1729886738494</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added color alpha library package to use it in border bottom theme link">
+      <option name="closed" value="true" />
+      <created>1729972580895</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1729972580895</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Created Repositories fake segment to prepare it for implement GitHub API repositories">
+      <option name="closed" value="true" />
+      <created>1729972760729</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1729972760729</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Styling components for Repositories list in styled">
+      <option name="closed" value="true" />
+      <created>1729972814756</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1729972814756</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created file in features src" />
-    <MESSAGE value="package loc json files" />
-    <MESSAGE value="added theme colors names in core" />
     <MESSAGE value="Basic styled for ThemeSwitch in common" />
     <MESSAGE value="workspace.xml WebStorm" />
     <MESSAGE value="installed normalize form styled normalize and added in App core" />
@@ -486,6 +506,9 @@
     <MESSAGE value="gh-pages homepage link fixed to correct address name" />
     <MESSAGE value="Imported repositories to Portfolio index" />
     <MESSAGE value="Added theme tile colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added theme tile colors" />
+    <MESSAGE value="Added color alpha library package to use it in border bottom theme link" />
+    <MESSAGE value="Created Repositories fake segment to prepare it for implement GitHub API repositories" />
+    <MESSAGE value="Styling components for Repositories list in styled" />
+    <option name="LAST_COMMIT_MESSAGE" value="Styling components for Repositories list in styled" />
   </component>
 </project>
