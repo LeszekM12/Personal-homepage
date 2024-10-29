@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="86608207-90bf-4c26-8f75-ab1d5f2011bc" name="Changes" comment="Temporary tests loading and error files for content road">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/Content/Repositories/styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/Content/Repositories/styled.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/Content/Loading/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/PersonalHomepage/Portfolio/Content/Loading/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/personalHomepageSaga.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/personalHomepageSaga.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     "Node.js.styled.jsx.executor": "Debug",
     "Node.js.themeSlice.jsx.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features/Portfolio/Content",
+    "git-widget-placeholder": "features/Portfolio/Content/Loading",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/dev/personal-homepage/src/features/PersonalHomepage/Footer/SocialMedia",
     "node.js.detected.package.eslint": "true",
@@ -84,11 +84,11 @@
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Portfolio\Content\Loading" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Portfolio" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Footer\SocialMedia\Icons" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\Skills" />
       <recent name="C:\dev\personal-homepage\src\features\PersonalHomepage\MainBio" />
-      <recent name="C:\dev\personal-homepage\src\common\ThemeSwich" />
     </key>
   </component>
   <component name="SharedIndexes">
