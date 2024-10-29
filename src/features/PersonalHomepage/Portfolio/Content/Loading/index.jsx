@@ -1,3 +1,10 @@
+import {Wrapper, Info, StyledSpinner} from "./styled";
+
 export const Loading = () => (
-    <div> Please wait! </div>
+    <Wrapper>
+        <Info>
+            Please wait, projects are being loaded...
+        </Info>
+        <StyledSpinner />
+    </Wrapper>
 )
