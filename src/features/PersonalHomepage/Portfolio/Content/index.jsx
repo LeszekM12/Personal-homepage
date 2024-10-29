@@ -9,7 +9,7 @@ export const Content = ({status, repositories}) => {
         case "loading":
             return <Loading/>;
         case "error":
-            return <Error/>
+            return <Error/>;
         case "success":
             return <Repositories repositories={repositories}/>;
         default:
