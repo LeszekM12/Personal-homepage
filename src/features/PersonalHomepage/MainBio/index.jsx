@@ -10,8 +10,8 @@ export const MainBio = () => (
             <ThisIs>This is</ThisIs>
             <Name>Leszek Mikrut</Name>
             <Summary>
-                🧑🏻‍💻I'm a dedicated Front-end Developer with a strong interest in
-                React, actively looking new job opportunities.
+                🧑🏻‍💻I build scalable, elegant software by combining robust backend engineering with thoughtful,
+                detail‑driven frontend design, delivering fast, intuitive, and maintainable digital experiences.
             </Summary>
             <Button href={`mailto:${email}`} title={email}>
                 <Envelop/>

@@ -9,10 +9,11 @@ export const Footer = () => (
             <Email href={`mailto:${email}`}>{email}</Email>
         </Address>
             <Info>
-                I'm always open to new projects whenever I have time. If you have
-                a website, dashboard or a mobile app in mind and need some help to
-                make your ideas come to life, feel free to contact me ✉️ <br/>
-                <br/> Be in touch 🤝 <br/>
+                <b>Let’s build something great together.</b>
+                <p></p>
+
+                I’m open to projects involving modern web applications, dashboards and scalable front‑end architecture. <br/>
+                <br/> Feel free to reach out <br/>
                 <Name>Leszek Mikrut</Name>
             </Info>
             <SocialMedia/>
